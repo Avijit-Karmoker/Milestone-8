@@ -1,0 +1,18 @@
+.detail{
+    width: 50%;
+    border: 1px solid #2c3e50;
+    border-radius: 8px;
+    padding: 5px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #00a8ff;
+}
+
+.detail img{
+    width: 100%;
+    height: 400px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    
+}

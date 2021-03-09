@@ -1,0 +1,13 @@
+.countries{
+    width: 22%;
+    height: 200px;
+    text-align: center;
+    float: left;
+    margin: 20px;
+    margin-left: 100px;
+    border: 2px solid purple;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #3498db;
+    color: #fff;
+}
